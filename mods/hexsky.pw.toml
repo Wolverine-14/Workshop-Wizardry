@@ -1,0 +1,13 @@
+name = "Hexxy Skies"
+filename = "hexsky-fabric-1.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ta01udVD/versions/p6XiHlMT/hexsky-fabric-1.0.8.jar"
+hash-format = "sha512"
+hash = "72604715e79d72da50748efe9c260c9b2b2c68b2de5082ae728bf17bd3fd2a296a97e83d99f5ad26cfcc9f7b15f97a499e64fbb9af7e256a315e0c96809df2e6"
+
+[update]
+[update.modrinth]
+mod-id = "ta01udVD"
+version = "p6XiHlMT"

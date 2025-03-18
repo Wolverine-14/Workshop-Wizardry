@@ -1,0 +1,13 @@
+name = "Runic Enchanting"
+filename = "runic_enchanting-1.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GkpgRKV2/versions/sEmrnI7V/runic_enchanting-1.1%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "37ffc6150b01b425350d7eacd503adead11c50af9bcf5c10dfb37110a808cc621c9444549c5524f95067b781b18cdbe893ec0e2ef7137c919a45dde661f6252e"
+
+[update]
+[update.modrinth]
+mod-id = "GkpgRKV2"
+version = "sEmrnI7V"

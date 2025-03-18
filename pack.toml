@@ -1,0 +1,13 @@
+name = "Modpack Ideas"
+author = "Andrew"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "438c85bddf759d39ffcc92f9c9d488eff258bd0746473c50136602c0d10349f8"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.20.1"

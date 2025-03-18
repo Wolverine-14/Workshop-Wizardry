@@ -1,0 +1,13 @@
+name = "Create: Modular Tools"
+filename = "create_modular_tools-1.0.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/11TIcYqC/versions/MSVNRQbL/create_modular_tools-1.0.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "fbabbf468960fd2911314cb30771a26599a665f119e150c9f716a8dc9295d551dcf5c79b149a89962a40337961f0620232e3f577093cc8b0362eb9c3a3fc0e9d"
+
+[update]
+[update.modrinth]
+mod-id = "11TIcYqC"
+version = "MSVNRQbL"
