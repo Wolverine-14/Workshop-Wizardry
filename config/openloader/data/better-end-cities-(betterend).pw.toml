@@ -1,0 +1,13 @@
+name = "Better End Cities (BetterEnd)"
+filename = "better-end-city-BetterEnd-FORGE.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/itBxlKsu/versions/6MN0RJcw/better-end-city-BetterEnd-FORGE.zip"
+hash-format = "sha512"
+hash = "991c26556a33e93410a2a07ffe0614d6132c435c070ab5d45cb8bcbacac8ad7d3eca0c49f42c38ec3e1951cb8da1237c8bd3012a01ca2a69a46b9ec40bfde5cf"
+
+[update]
+[update.modrinth]
+mod-id = "itBxlKsu"
+version = "6MN0RJcw"
