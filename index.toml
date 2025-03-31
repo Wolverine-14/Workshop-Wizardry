@@ -26,6 +26,11 @@ hash = "ce13b5e51405cbfd8025a38dcbc707428566f820c3c1c98473507db0f4386007"
 metafile = true
 
 [[files]]
+file = "mods/create-connected-fabric.pw.toml"
+hash = "68f1f763b3505a7765b431395c67c169f5f7ec59eca8eab2b46f5ce2397d0816"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
 hash = "0be9a4a21dec89c60c7952c4ac9c34387bd2714666a90564cf0d2524ea033a1c"
 metafile = true
@@ -126,11 +131,6 @@ hash = "61e5f0c2fc067877744d9cdbed9704e4da4933a4be893e5ef61174346fb13af6"
 metafile = true
 
 [[files]]
-file = "mods/hexdebug.pw.toml"
-hash = "671d3904e1f96287c56bb026722569d50611ed692eabb6dbd599229fddf69dbc"
-metafile = true
-
-[[files]]
 file = "mods/hexical.pw.toml"
 hash = "353bc9603d4bfa25ce7e2e15a1a8cf34f6ab18695cdafd8c4e0d351e841ac157"
 metafile = true
@@ -163,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
+metafile = true
+
+[[files]]
+file = "mods/liquid-burner.pw.toml"
+hash = "2ad8b461a8517f6109bebf39026aa22a0c372619632fe200fb7b1f753081626e"
 metafile = true
 
 [[files]]
@@ -228,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-desert-temples.pw.toml"
 hash = "056652d48ab3934e87ebcdef25306d3a7a564fab873c0c826ba8403f23ca99d7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "cf708ff146f867df2153b3f27482e80769c7032b10037e4a752d31fbb5668eaf"
 metafile = true
 
 [[files]]
