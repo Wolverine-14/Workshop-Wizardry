@@ -10,6 +10,10 @@ file = "config/openloader/data/lootr-betterend-compatibility-data-pack.zip"
 hash = "00661dcb3d8209eafc05139d774b7375c8cf09396d22d9f55c3dc6121e19c4c9"
 
 [[files]]
+file = "kubejs/server_scripts/VillagerTrades.js"
+hash = "61c70d8305dd9b583f15a136c037c69845d02ffebaa0948356a887f752023b88"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
@@ -176,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/inline.pw.toml"
-hash = "d8c819fde97f9129ff0e9a6402e18598eb7d844c0193007a08aa88f3c0e3e507"
+hash = "06ff4315690ac68d88776ed29740ad1515746a382f4ac47ecde0566cb16333b8"
 metafile = true
 
 [[files]]
@@ -217,6 +221,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
+metafile = true
+
+[[files]]
+file = "mods/morejs.pw.toml"
+hash = "34d3a4818233d1503c47535f3aeb265f37ceae7c92cc4e5c2b253c8c3af037ac"
 metafile = true
 
 [[files]]
@@ -292,6 +301,16 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-desert-temples.pw.toml"
 hash = "056652d48ab3934e87ebcdef25306d3a7a564fab873c0c826ba8403f23ca99d7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "0958d9f10d0e8fb282b8e684b05b37b29aca826d48deeec3e44171857c99aca5"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "a837a0028b1e1bbb6c4e5d31bf3cb04d6f6dccae90fc93df46f9a60a8b2c53c1"
 metafile = true
 
 [[files]]
