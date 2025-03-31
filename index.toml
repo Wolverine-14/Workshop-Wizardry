@@ -216,6 +216,21 @@ hash = "350cd01b8b55cea244c2b0ea7bb3c9a6ba873cea4701528c62101c63af6b027a"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "af8c4da9d92fa2e95a4f147cb6b1577c89cd82265d2c3317076a7c16dc8f4d87"
+metafile = true
+
+[[files]]
+file = "mods/toms_storage_create_recipes.pw.toml"
+hash = "5c492f300c8415828cce52847cc501c87db2611cfd81cc9f32e1815b9b9a7567"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
 metafile = true
