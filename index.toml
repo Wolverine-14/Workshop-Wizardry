@@ -339,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/wakes.pw.toml"
-hash = "24cfa457173f8fd0aec773a4437c86dc22a9ef41c73514a2237160b514ff837d"
+hash = "ac91f1acfef2793bab4126dbc31984b64c28a7ad0c7d80b6464b1b1063cbae63"
 metafile = true
 
 [[files]]
