@@ -333,11 +333,6 @@ hash = "bc7e0f9a0c6c0a07b3d9b5d43ca3891356a841ba71b25e148d237c7f7342a51d"
 metafile = true
 
 [[files]]
-file = "mods/vs-addition.pw.toml"
-hash = "a98d504853088be7244fb292a1ccc8cdd0dbe2bf289ab4e420328122ac58d58e"
-metafile = true
-
-[[files]]
 file = "mods/vs-wakes-compat.pw.toml"
 hash = "45136b6ae95e5d16e7cb98c88983ecef918e0391ec5f7a4e911fd5911e15f97c"
 metafile = true
