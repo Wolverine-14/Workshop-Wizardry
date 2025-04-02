@@ -139,6 +139,11 @@ hash = "34a07ff5c170cd95eb586e3e40e65636eb4bbf283c24762055db6094b91de494"
 metafile = true
 
 [[files]]
+file = "mods/eureka.pw.toml"
+hash = "8ea11b348e14a256d830dd40f0e1d6736d069a8cc1e0b2a6747db6256be5247f"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "c7763ceed9929d3364030c01a4602628ebf46a028d55e7dd06f5aeb6280d36a3"
 metafile = true
@@ -169,6 +174,10 @@ hash = "61e5f0c2fc067877744d9cdbed9704e4da4933a4be893e5ef61174346fb13af6"
 metafile = true
 
 [[files]]
+file = "mods/hexdebug-fabric-0.3.0+1.20.1-20250325.155028-2.jar"
+hash = "30445f600226bd36df0d0fe1c6189b8eed1d23981444639b678504f444b2f6c2"
+
+[[files]]
 file = "mods/hexical.pw.toml"
 hash = "353bc9603d4bfa25ce7e2e15a1a8cf34f6ab18695cdafd8c4e0d351e841ac157"
 metafile = true
@@ -194,6 +203,11 @@ hash = "06ff4315690ac68d88776ed29740ad1515746a382f4ac47ecde0566cb16333b8"
 metafile = true
 
 [[files]]
+file = "mods/jade-vs.pw.toml"
+hash = "19fcdf15fa4ca7fe90499a1b8f949fbe74b5cd43dc1c915de7653f3c109a5246"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
 metafile = true
@@ -206,6 +220,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
+metafile = true
+
+[[files]]
+file = "mods/kubevs.pw.toml"
+hash = "4c1a38c34d9fa5e91667f53a854d1c586bb559e2d91c96fb176b1785c24e02ea"
 metafile = true
 
 [[files]]
@@ -269,6 +288,11 @@ hash = "350cd01b8b55cea244c2b0ea7bb3c9a6ba873cea4701528c62101c63af6b027a"
 metafile = true
 
 [[files]]
+file = "mods/spirit-walker.pw.toml"
+hash = "39a1566c7bb198d5eef25b3cfd48883b92e02360bbd923d09196cb4271394c5f"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
 metafile = true
@@ -299,8 +323,28 @@ hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
 metafile = true
 
 [[files]]
+file = "mods/valkyrien-relogs.pw.toml"
+hash = "6e85d68220f2fb30dee6145afc169b950f67d6be7e0eee3c70b9fff9b0f5ba66"
+metafile = true
+
+[[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "bc7e0f9a0c6c0a07b3d9b5d43ca3891356a841ba71b25e148d237c7f7342a51d"
+metafile = true
+
+[[files]]
+file = "mods/vs-addition.pw.toml"
+hash = "a98d504853088be7244fb292a1ccc8cdd0dbe2bf289ab4e420328122ac58d58e"
+metafile = true
+
+[[files]]
+file = "mods/vs-wakes-compat.pw.toml"
+hash = "45136b6ae95e5d16e7cb98c88983ecef918e0391ec5f7a4e911fd5911e15f97c"
+metafile = true
+
+[[files]]
+file = "mods/wakes.pw.toml"
+hash = "24cfa457173f8fd0aec773a4437c86dc22a9ef41c73514a2237160b514ff837d"
 metafile = true
 
 [[files]]
