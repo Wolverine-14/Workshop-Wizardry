@@ -24,6 +24,11 @@ hash = "ab1e22cc66189067e002a204c70c553cc7cc0e738bd602f405d7cc37561260be"
 metafile = true
 
 [[files]]
+file = "mods/beaconoverhaul.pw.toml"
+hash = "948e2afde3a7a98cca263230450e50d861fdd8984c87a464897c17a3105c6037"
+metafile = true
+
+[[files]]
 file = "mods/betterend.pw.toml"
 hash = "dd8057c40ff94e9a21a121583884f71c9a6b1eaa6f913ef46c5d1f9b37fe487f"
 metafile = true
@@ -31,6 +36,11 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
+metafile = true
+
+[[files]]
+file = "mods/charm-of-undying.pw.toml"
+hash = "9976a89bdb3889054b1501c2471974ec62a0be15dabc0330422adf1a23a88bae"
 metafile = true
 
 [[files]]
@@ -276,6 +286,11 @@ metafile = true
 [[files]]
 file = "mods/toms_storage_create_recipes.pw.toml"
 hash = "5c492f300c8415828cce52847cc501c87db2611cfd81cc9f32e1815b9b9a7567"
+metafile = true
+
+[[files]]
+file = "mods/trimseffects.pw.toml"
+hash = "f654dbfb540a36c4da53280259d49cd82e88a0ddb62d6210841bf1ad98fef099"
 metafile = true
 
 [[files]]
