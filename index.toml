@@ -199,11 +199,6 @@ hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
 metafile = true
 
 [[files]]
-file = "mods/liquid-burner.pw.toml"
-hash = "2ad8b461a8517f6109bebf39026aa22a0c372619632fe200fb7b1f753081626e"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "470d30cd94b769b646f714432ba4cd01969910f6016957a6b218d2d2900d914c"
 metafile = true
