@@ -1,0 +1,13 @@
+name = "Bundle Tweaks"
+filename = "bundlescroll-1.19.3+-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DOktb3wi/versions/lLbRUUjc/bundlescroll-1.19.3%2B-1.1.0.jar"
+hash-format = "sha512"
+hash = "366f4be2c37752af17f7ab253e436b35ac054b2b680ce00edcf2f2ff1694b631196f55d6192cbb6d4522bc5af0c19d1099ca26d08e3634f460397fa4978feb82"
+
+[update]
+[update.modrinth]
+mod-id = "DOktb3wi"
+version = "lLbRUUjc"

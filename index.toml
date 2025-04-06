@@ -43,6 +43,16 @@ hash = "dd8057c40ff94e9a21a121583884f71c9a6b1eaa6f913ef46c5d1f9b37fe487f"
 metafile = true
 
 [[files]]
+file = "mods/bundle-jumble.pw.toml"
+hash = "1a3f40437156c852d1d635bb1b1d6a0bfab7408274ea185f6b33d6729169bf5f"
+metafile = true
+
+[[files]]
+file = "mods/bundle-tweaks.pw.toml"
+hash = "7e33e3360e59afb20ebc580cf3fa2e8929e03c0aa7766b0e8c97e8ec1c853cc9"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
 metafile = true
@@ -324,6 +334,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "8305bf17272f0c579b0930b751c12089de9fb157dbdb5c080836ce3daad310b5"
 metafile = true
 
 [[files]]
