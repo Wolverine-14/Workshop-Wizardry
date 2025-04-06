@@ -58,6 +58,11 @@ hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "15385164e2cd07cce7493a10d6d87df5c7bce587a866613126be3b54b6b28fc7"
+metafile = true
+
+[[files]]
 file = "mods/continents.pw.toml"
 hash = "2278b701d34c6ce904d52975244f04ce584ae7d5920ca3f9ff0202eccdc6185f"
 metafile = true
@@ -184,6 +189,11 @@ metafile = true
 [[files]]
 file = "mods/hextweaks.pw.toml"
 hash = "0b158a7ff9b09c43b9066095ae69eb717df1d0d69f4ea09f52300400ff308756"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "68985a3f3d2a6f829783c1bdbd27f195556992fc2c0a9738656acccf38d8c97a"
 metafile = true
 
 [[files]]
