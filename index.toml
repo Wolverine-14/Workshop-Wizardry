@@ -10,8 +10,12 @@ file = "config/openloader/data/lootr-betterend-compatibility-data-pack.zip"
 hash = "00661dcb3d8209eafc05139d774b7375c8cf09396d22d9f55c3dc6121e19c4c9"
 
 [[files]]
+file = "kubejs/server_scripts/CustomRecipies.js"
+hash = "2e894984f5a750340ab6fc5be11e8ced0e4ff2488c0ecea86f01fbd518ac28c7"
+
+[[files]]
 file = "kubejs/server_scripts/VillagerTrades.js"
-hash = "61c70d8305dd9b583f15a136c037c69845d02ffebaa0948356a887f752023b88"
+hash = "fa0e06d9c4183043c73fcf4cbf69debd9edbf842907906e412887820dbbc3341"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -396,3 +400,7 @@ metafile = true
 file = "mods/zenith-attributes.pw.toml"
 hash = "6b9c4e2d1c56b70d9ea580a34d894c1c558f2192106bf4fd05277ab66e29513d"
 metafile = true
+
+[[files]]
+file = "whitelist.json"
+hash = "e4f97f67366a104f60f4060bb8ace9da346db3eeb90ac615b4d697ef0d66ead9"
