@@ -1,4 +1,4 @@
-const structureTrade = VillagerUtils.createStructureMapTrade([TradeItem.of("minecraft:emerald", 14, 14), "minecraft:compas"], "minecraft:ancient_city");
+const structureTrade = VillagerUtils.createStructureMapTrade([TradeItem.of("minecraft:emerald", 14, 14), 'minecraft:compass'], "minecraft:ancient_city");
 
 MoreJSEvents.villagerTrades((event) => {
     /**
