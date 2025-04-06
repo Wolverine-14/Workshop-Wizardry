@@ -63,11 +63,6 @@ hash = "2278b701d34c6ce904d52975244f04ce584ae7d5920ca3f9ff0202eccdc6185f"
 metafile = true
 
 [[files]]
-file = "mods/create-clockwork.pw.toml"
-hash = "ce13b5e51405cbfd8025a38dcbc707428566f820c3c1c98473507db0f4386007"
-metafile = true
-
-[[files]]
 file = "mods/create-connected-fabric.pw.toml"
 hash = "68f1f763b3505a7765b431395c67c169f5f7ec59eca8eab2b46f5ce2397d0816"
 metafile = true
@@ -148,11 +143,6 @@ hash = "34a07ff5c170cd95eb586e3e40e65636eb4bbf283c24762055db6094b91de494"
 metafile = true
 
 [[files]]
-file = "mods/eureka.pw.toml"
-hash = "8ea11b348e14a256d830dd40f0e1d6736d069a8cc1e0b2a6747db6256be5247f"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "c7763ceed9929d3364030c01a4602628ebf46a028d55e7dd06f5aeb6280d36a3"
 metafile = true
@@ -192,11 +182,6 @@ hash = "353bc9603d4bfa25ce7e2e15a1a8cf34f6ab18695cdafd8c4e0d351e841ac157"
 metafile = true
 
 [[files]]
-file = "mods/hexsky.pw.toml"
-hash = "f2096ab5a88c58a817e02fdf23e5223ef64ceeac5019eebdcfa7ac0e0eae95a4"
-metafile = true
-
-[[files]]
 file = "mods/hextweaks.pw.toml"
 hash = "0b158a7ff9b09c43b9066095ae69eb717df1d0d69f4ea09f52300400ff308756"
 metafile = true
@@ -212,11 +197,6 @@ hash = "06ff4315690ac68d88776ed29740ad1515746a382f4ac47ecde0566cb16333b8"
 metafile = true
 
 [[files]]
-file = "mods/jade-vs.pw.toml"
-hash = "19fcdf15fa4ca7fe90499a1b8f949fbe74b5cd43dc1c915de7653f3c109a5246"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
 metafile = true
@@ -229,11 +209,6 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
-metafile = true
-
-[[files]]
-file = "mods/kubevs.pw.toml"
-hash = "4c1a38c34d9fa5e91667f53a854d1c586bb559e2d91c96fb176b1785c24e02ea"
 metafile = true
 
 [[files]]
@@ -297,6 +272,11 @@ hash = "c4e3f0f7889cc3c3ced11aaf59466b363b0e624e1fdeff43b0431646daf6925e"
 metafile = true
 
 [[files]]
+file = "mods/small-ships.pw.toml"
+hash = "18d84c132f116eedf06e967346e98868cca5483f9015cfbc366a35b5eb223971"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "350cd01b8b55cea244c2b0ea7bb3c9a6ba873cea4701528c62101c63af6b027a"
 metafile = true
@@ -334,26 +314,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-relogs.pw.toml"
-hash = "6e85d68220f2fb30dee6145afc169b950f67d6be7e0eee3c70b9fff9b0f5ba66"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "bc7e0f9a0c6c0a07b3d9b5d43ca3891356a841ba71b25e148d237c7f7342a51d"
-metafile = true
-
-[[files]]
-file = "mods/vs-wakes-compat.pw.toml"
-hash = "45136b6ae95e5d16e7cb98c88983ecef918e0391ec5f7a4e911fd5911e15f97c"
-metafile = true
-
-[[files]]
-file = "mods/wakes.pw.toml"
-hash = "ac91f1acfef2793bab4126dbc31984b64c28a7ad0c7d80b6464b1b1063cbae63"
 metafile = true
 
 [[files]]
