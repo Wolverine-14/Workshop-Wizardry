@@ -10,7 +10,7 @@ file = "config/openloader/data/lootr-betterend-compatibility-data-pack.zip"
 hash = "00661dcb3d8209eafc05139d774b7375c8cf09396d22d9f55c3dc6121e19c4c9"
 
 [[files]]
-file = "kubejs/server_scripts/CustomRecipies.js"
+file = "kubejs/server_scripts/LootTables.js"
 hash = "2e894984f5a750340ab6fc5be11e8ced0e4ff2488c0ecea86f01fbd518ac28c7"
 
 [[files]]
