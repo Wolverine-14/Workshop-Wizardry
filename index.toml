@@ -193,8 +193,8 @@ hash = "b78dcbd63b1f6b0ad2fb0c287498010c8ac266cb10b0d9294b75dc946a848ff1"
 metafile = true
 
 [[files]]
-file = "mods/hexdebug-fabric-0.3.0+1.20.1-20250325.155028-2.jar"
-hash = "30445f600226bd36df0d0fe1c6189b8eed1d23981444639b678504f444b2f6c2"
+file = "mods/hexdebug-fabric-0.3.0+1.20.1-20250406.070505-4.jar"
+hash = "aa464902bfbf1c309dc843f4e68e5ae6549a3f1fce8e9f57f69e61c57656d5ae"
 
 [[files]]
 file = "mods/hexical.pw.toml"
@@ -403,4 +403,4 @@ metafile = true
 
 [[files]]
 file = "whitelist.json"
-hash = "e4f97f67366a104f60f4060bb8ace9da346db3eeb90ac615b4d697ef0d66ead9"
+hash = "6c6b1b643f611221ad31fd1d487ba3f19f96a0ab653edca159186d11abd9d63c"
