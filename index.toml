@@ -1,27 +1,27 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/openloader/data/RunicEnchantments/data/WorkshopWisardry/recipies/rune_enchanting/capacity.json"
-hash = "757e25fc8007e65771d54d2ab2b62b075bc31fd531085e24e4aa1a2721cf93a5"
+file = "config/openloader/data/WorkshopWisardry/data/WorkshopWisardry/recipes/rune_enchanting/capacity.json"
+hash = "a132d619c35817cb9637ac22f4bcc5bb09a3c754bed2163885d378ccca627cc3"
 
 [[files]]
-file = "config/openloader/data/RunicEnchantments/data/WorkshopWisardry/recipies/rune_enchanting/catalysis.json"
-hash = "035117149f9db63e50eac14ad1ee1a2c411e81e9ff9f039023ea6cf1d01ca409"
+file = "config/openloader/data/WorkshopWisardry/data/WorkshopWisardry/recipes/rune_enchanting/catalysis.json"
+hash = "0a2f0f3aa283fbf37bdff5dbda40ead77f3c63f2b078f9436f55c3921de6bcbb"
 
 [[files]]
-file = "config/openloader/data/RunicEnchantments/data/WorkshopWisardry/recipies/rune_enchanting/end_veil.json"
-hash = "a998898b2bdc82550354ff77afe870c3f62f0f5fceb7d3025ebfc8288ae106f4"
+file = "config/openloader/data/WorkshopWisardry/data/WorkshopWisardry/recipes/rune_enchanting/end_veil.json"
+hash = "edce1b55f3f3b0403bc3df3c18d8086ba58d51c5a3a072036e353856df3c0c9e"
 
 [[files]]
-file = "config/openloader/data/RunicEnchantments/data/WorkshopWisardry/recipies/rune_enchanting/potato_recovery.json"
-hash = "5057aebfd02db3307755a13a2c8f751112c4bdabf4d543bd9d544ddb2c8979f0"
+file = "config/openloader/data/WorkshopWisardry/data/WorkshopWisardry/recipes/rune_enchanting/potato_recovery.json"
+hash = "97c5b13df0c8384808dbaf0afd82ce41fa0594d8d50ee2814e32c059eecdac03"
 
 [[files]]
-file = "config/openloader/data/RunicEnchantments/data/WorkshopWisardry/recipies/rune_enchanting/sculk_smite.json"
-hash = "13de086b86594f1088f5d77e5a68e97211c3d09c7d21551a50e8b9b333261e8d"
+file = "config/openloader/data/WorkshopWisardry/data/WorkshopWisardry/recipes/rune_enchanting/sculk_smite.json"
+hash = "86d6c9430856c03ee8a8a08e3309d803d1e35bda88b355f25ead8749d10b11b9"
 
 [[files]]
-file = "config/openloader/data/RunicEnchantments/pack.mcmeta"
+file = "config/openloader/data/WorkshopWisardry/pack.mcmeta"
 hash = "302d81b1b6f289be30d3ea46443b9b10add4b3aef2360776fd93dfca5ac8be5c"
 
 [[files]]
