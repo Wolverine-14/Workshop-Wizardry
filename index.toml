@@ -188,6 +188,11 @@ hash = "61e5f0c2fc067877744d9cdbed9704e4da4933a4be893e5ef61174346fb13af6"
 metafile = true
 
 [[files]]
+file = "mods/hexchanting.pw.toml"
+hash = "b78dcbd63b1f6b0ad2fb0c287498010c8ac266cb10b0d9294b75dc946a848ff1"
+metafile = true
+
+[[files]]
 file = "mods/hexdebug-fabric-0.3.0+1.20.1-20250325.155028-2.jar"
 hash = "30445f600226bd36df0d0fe1c6189b8eed1d23981444639b678504f444b2f6c2"
 
