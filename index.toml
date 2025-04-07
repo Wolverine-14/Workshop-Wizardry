@@ -10,8 +10,16 @@ file = "config/openloader/data/lootr-betterend-compatibility-data-pack.zip"
 hash = "00661dcb3d8209eafc05139d774b7375c8cf09396d22d9f55c3dc6121e19c4c9"
 
 [[files]]
+file = "emi.json"
+hash = "8213bf36ce6612bd47e50f11348bc65306a048e86270d14c32d62fd96fc4f213"
+
+[[files]]
 file = "kubejs/server_scripts/LootTables.js"
 hash = "2e894984f5a750340ab6fc5be11e8ced0e4ff2488c0ecea86f01fbd518ac28c7"
+
+[[files]]
+file = "kubejs/server_scripts/Recipie.js"
+hash = "65b8b0fc6f421f8e550d49ec65d00de1cb2b86ebf5ecff14225d8d97bea00a39"
 
 [[files]]
 file = "kubejs/server_scripts/VillagerTrades.js"
@@ -140,11 +148,6 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "af8a0e02b6d8e380087e02fd7441bb7c546d6ab20d5f7642e04925e74cbd7659"
-metafile = true
-
-[[files]]
-file = "mods/emienchants.pw.toml"
-hash = "e8c7a4925dcf61da8ab1527a483e4b7573c4067cfed897bd0c5844b3c7e28a52"
 metafile = true
 
 [[files]]
