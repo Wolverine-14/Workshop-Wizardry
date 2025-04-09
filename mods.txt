@@ -1,0 +1,69 @@
+Performance
+    async-locator
+    clumps
+    noisium
+    immediatelyfast
+    indium
+    lithium
+    sodium
+
+QOL
+    bundle-jumble
+    bundle-tweaks
+    charm-of-undying
+    distanthorizons (optional)
+    emi-loot
+    emi
+    emitrades
+    jade
+    journeymap
+    trinkets
+
+Tech
+    create-connected-fabric
+    create-enchantment-industry-fabric
+    create-fabric
+    create-modular-tools
+    create-power-loader-fabric
+    create-renewable-netherite
+    create-stones
+    create-trading-floor
+    create-utilities
+    small-ships
+    toms-storage
+    toms_storage_create_recipes
+
+Vanilla Tweaks
+    endrem
+    friends-and-foes
+    kubejs
+    lootjs
+    lootr
+    morejs
+    zenith-attributes
+
+Magic
+    beaconoverhaul
+    pehkui
+    runic-enchanting
+    spirit-walker
+    trimseffects
+    hex-casting
+    hexchanting
+    hexdebug
+    hexical
+    hextweaks
+
+World Gen/Dimensions
+    continents
+    betterend
+    deeperdarker
+    yungs-better-desert-temples
+    yungs-better-dungeons
+    yungs-better-jungle-temples
+    yungs-better-mineshafts
+    yungs-better-nether-fortresses
+    yungs-better-ocean-monuments
+    yungs-better-strongholds
+    terralith
+    the-lost-castle

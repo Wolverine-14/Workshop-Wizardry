@@ -11,3 +11,8 @@ hash = "15f1cf301c82083603d31758ef92e198703f7e5a178520ca0fed299ee1b041eb60013496
 [update.modrinth]
 mod-id = "uCdwusMi"
 version = "nVT5sVYS"
+
+[option]
+optional = True
+default = False
+description = "a mod that allows you to see further than the default render distance without too much of a performance hit"
