@@ -13,6 +13,6 @@ mod-id = "uCdwusMi"
 version = "nVT5sVYS"
 
 [option]
-optional = True
-default = False
+optional = true
+default = false
 description = "a mod that allows you to see further than the default render distance without too much of a performance hit"
