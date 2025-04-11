@@ -229,11 +229,6 @@ hash = "353bc9603d4bfa25ce7e2e15a1a8cf34f6ab18695cdafd8c4e0d351e841ac157"
 metafile = true
 
 [[files]]
-file = "mods/hextweaks.pw.toml"
-hash = "0b158a7ff9b09c43b9066095ae69eb717df1d0d69f4ea09f52300400ff308756"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "68985a3f3d2a6f829783c1bdbd27f195556992fc2c0a9738656acccf38d8c97a"
 metafile = true
