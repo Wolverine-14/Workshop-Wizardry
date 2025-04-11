@@ -75,13 +75,13 @@ hash = "dd8057c40ff94e9a21a121583884f71c9a6b1eaa6f913ef46c5d1f9b37fe487f"
 metafile = true
 
 [[files]]
-file = "mods/bundle-jumble.pw.toml"
-hash = "1a3f40437156c852d1d635bb1b1d6a0bfab7408274ea185f6b33d6729169bf5f"
+file = "mods/bundle-backportish.pw.toml"
+hash = "300d47da7b3597b02f50de0de7574e1eaf63cdf2273ced05db697fad94b493a5"
 metafile = true
 
 [[files]]
-file = "mods/bundle-tweaks.pw.toml"
-hash = "7e33e3360e59afb20ebc580cf3fa2e8929e03c0aa7766b0e8c97e8ec1c853cc9"
+file = "mods/bundle-jumble.pw.toml"
+hash = "1a3f40437156c852d1d635bb1b1d6a0bfab7408274ea185f6b33d6729169bf5f"
 metafile = true
 
 [[files]]
@@ -112,6 +112,11 @@ metafile = true
 [[files]]
 file = "mods/create-connected-fabric.pw.toml"
 hash = "68f1f763b3505a7765b431395c67c169f5f7ec59eca8eab2b46f5ce2397d0816"
+metafile = true
+
+[[files]]
+file = "mods/create-contraption-terminals.pw.toml"
+hash = "5d83b1518fa7939016af80f298348a2a28713a42cc7323fb33331098853b4210"
 metafile = true
 
 [[files]]
@@ -311,6 +316,11 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
+metafile = true
+
+[[files]]
+file = "mods/quickshulker.pw.toml"
+hash = "f57fa2483cc538e0dd7d15fa6ee048d796d8c833cc724eff83df2e7347c1eae2"
 metafile = true
 
 [[files]]
