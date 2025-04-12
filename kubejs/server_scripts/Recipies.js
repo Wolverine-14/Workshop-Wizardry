@@ -44,4 +44,123 @@ ServerEvents.recipes(e => {
         burntime: 5000,
         superheattime: 3200
       })
+
+      e.custom({
+        type: "runic_enchanting:rune_enchanting",
+        book: {
+          item: "minecraft:book"
+        },
+        target: {
+          item: "runic_enchanting:equipment_rune_page"
+        },
+        primary: {
+          item: "runic_enchanting:air_rune_page"
+        },
+        secondary: {
+          item: "runic_enchanting:inventory_rune_page"
+        },
+        lapis_count: 3,
+        exp_amount: 6,
+        result: {
+          item: "minecraft:enchanted_book"
+        },
+        enchantment: "create:capacity",
+        level: 1,
+        generate_additional_leveled_recipes: true
+      })
+      e.custom({
+        type: "runic_enchanting:rune_enchanting",
+        book: {
+          item: "minecraft:book"
+        },
+        target: {
+          item: "runic_enchanting:melee_rune_page"
+        },
+        primary: {
+          item: "runic_enchanting:spirit_rune_page"
+        },
+        secondary: {
+          item: "runic_enchanting:earth_rune_page"
+        },
+        lapis_count: 3,
+        exp_amount: 6,
+        result: {
+          item: "minecraft:enchanted_book"
+        },
+        enchantment: "deeperdarker:catalysis",
+        level: 1,
+        generate_additional_leveled_recipes: true
+      })
+      e.custom({
+        type: "runic_enchanting:rune_enchanting",
+        book: {
+          item: "minecraft:book"
+        },
+        target: {
+          item: "runic_enchanting:armor_rune_page"
+        },
+        primary: {
+          item: "runic_enchanting:time_rune_page"
+        },
+        secondary: {
+          item: "runic_enchanting:cunning_rune_page"
+        },
+        lapis_count: 3,
+        exp_amount: 6,
+        result: {
+          item: "minecraft:enchanted_book"
+        },
+        enchantment: "betterend:end_veil",
+        level: 1,
+        generate_additional_leveled_recipes: true
+      })
+      e.custom({
+        type: "runic_enchanting:rune_enchanting",
+        book: {
+          item: "minecraft:book"
+        },
+        target: {
+          item: "runic_enchanting:range_rune_page"
+        },
+        primary: {
+          item: "runic_enchanting:preservation_rune_page"
+        },
+        secondary: {
+          item: "runic_enchanting:luck_rune_page"
+        },
+        lapis_count: 3,
+        exp_amount: 6,
+        result: {
+          item: "minecraft:enchanted_book"
+        },
+        enchantment: "create:potato_recovery",
+        level: 1,
+        generate_additional_leveled_recipes: true
+      })
+      e.custom({
+        type: "runic_enchanting:rune_enchanting",
+        book: {
+          item: "minecraft:book"
+        },
+        target: {
+          item: "runic_enchanting:melee_rune_page"
+        },
+        primary: {
+          item: "runic_enchanting:damage_rune_page"
+        },
+        secondary: {
+          item: "runic_enchanting:force_rune_page"
+        },
+        extra: {
+          item: "runic_enchanting:destruction_rune_page"
+        },
+        lapis_count: 3,
+        exp_amount: 6,
+        result: {
+          item: "minecraft:enchanted_book"
+        },
+        enchantment: "deeperdarker:sculk_smite",
+        level: 1,
+        generate_additional_leveled_recipes: true
+      })
 })

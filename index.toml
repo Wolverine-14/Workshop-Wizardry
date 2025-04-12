@@ -1,34 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/openloader/data/WorkshopWisardry/data/WorkshopWisardry/recipes/metalburning.json"
-hash = "90deb2c779edc453cf69c233a3f4726722fda7831239617d8fe7cff1afed5db1"
-
-[[files]]
-file = "config/openloader/data/WorkshopWisardry/data/WorkshopWisardry/recipes/rune_enchanting/capacity.json"
-hash = "a132d619c35817cb9637ac22f4bcc5bb09a3c754bed2163885d378ccca627cc3"
-
-[[files]]
-file = "config/openloader/data/WorkshopWisardry/data/WorkshopWisardry/recipes/rune_enchanting/catalysis.json"
-hash = "0a2f0f3aa283fbf37bdff5dbda40ead77f3c63f2b078f9436f55c3921de6bcbb"
-
-[[files]]
-file = "config/openloader/data/WorkshopWisardry/data/WorkshopWisardry/recipes/rune_enchanting/end_veil.json"
-hash = "edce1b55f3f3b0403bc3df3c18d8086ba58d51c5a3a072036e353856df3c0c9e"
-
-[[files]]
-file = "config/openloader/data/WorkshopWisardry/data/WorkshopWisardry/recipes/rune_enchanting/potato_recovery.json"
-hash = "97c5b13df0c8384808dbaf0afd82ce41fa0594d8d50ee2814e32c059eecdac03"
-
-[[files]]
-file = "config/openloader/data/WorkshopWisardry/data/WorkshopWisardry/recipes/rune_enchanting/sculk_smite.json"
-hash = "86d6c9430856c03ee8a8a08e3309d803d1e35bda88b355f25ead8749d10b11b9"
-
-[[files]]
-file = "config/openloader/data/WorkshopWisardry/pack.mcmeta"
-hash = "302d81b1b6f289be30d3ea46443b9b10add4b3aef2360776fd93dfca5ac8be5c"
-
-[[files]]
 file = "config/openloader/data/better-end-cities-(betterend).pw.toml"
 hash = "69e3b5f159ddebed6db8bf074e0062d039392abfcb2c1d910d1035d9313b302a"
 metafile = true
@@ -39,7 +11,7 @@ hash = "00661dcb3d8209eafc05139d774b7375c8cf09396d22d9f55c3dc6121e19c4c9"
 
 [[files]]
 file = "emi.json"
-hash = "8213bf36ce6612bd47e50f11348bc65306a048e86270d14c32d62fd96fc4f213"
+hash = "4570fb2f60c75b8dd490a8f02d084bd77bce7c436389ebec72178f55bd8e6d2a"
 
 [[files]]
 file = "kubejs/server_scripts/LootTables.js"
@@ -51,7 +23,7 @@ hash = "65b8b0fc6f421f8e550d49ec65d00de1cb2b86ebf5ecff14225d8d97bea00a39"
 
 [[files]]
 file = "kubejs/server_scripts/Recipies.js"
-hash = "b8c5f66e80757e80c4a7a9f158f06c6ec6cf0e3ddbe2b231c7322acadc104215"
+hash = "822f3a4b6e9b6aee226d5ba8697cb51f3faa7ab646d219aedd850e27f7337499"
 
 [[files]]
 file = "kubejs/server_scripts/VillagerTrades.js"
