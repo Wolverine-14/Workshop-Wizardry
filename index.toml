@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/openloader/data/WorkshopWisardry/data/WorkshopWisardry/recipes/metalburning.json"
+hash = "90deb2c779edc453cf69c233a3f4726722fda7831239617d8fe7cff1afed5db1"
+
+[[files]]
 file = "config/openloader/data/WorkshopWisardry/data/WorkshopWisardry/recipes/rune_enchanting/capacity.json"
 hash = "a132d619c35817cb9637ac22f4bcc5bb09a3c754bed2163885d378ccca627cc3"
 
@@ -46,6 +50,10 @@ file = "kubejs/server_scripts/Recipie.js"
 hash = "65b8b0fc6f421f8e550d49ec65d00de1cb2b86ebf5ecff14225d8d97bea00a39"
 
 [[files]]
+file = "kubejs/server_scripts/Recipies.js"
+hash = "4a61927238ffe95fc6738279bec909a178700ab28020d36c94252281a88a404e"
+
+[[files]]
 file = "kubejs/server_scripts/VillagerTrades.js"
 hash = "fa0e06d9c4183043c73fcf4cbf69debd9edbf842907906e412887820dbbc3341"
 
@@ -87,6 +95,11 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "3ef96a88003584f3bb0e249aeb102b977400fab8718201f3325dd6ced30e4315"
 metafile = true
 
 [[files]]
@@ -249,6 +262,11 @@ hash = "06ff4315690ac68d88776ed29740ad1515746a382f4ac47ecde0566cb16333b8"
 metafile = true
 
 [[files]]
+file = "mods/interiors.pw.toml"
+hash = "b9fa4052f55fb11d52dcd0825cfa1b0341b741b1fe9029fbcc79abede25ccf56"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
 metafile = true
@@ -259,8 +277,17 @@ hash = "c1cc1e05c95d769dd4929825e6a85d5ac8023d4a018569f40dd7bd972a81655e"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-create-fabric_1.20.1.jar"
+hash = "97b289d990522d672b96f4d373e05ee41e281e065aed16b055bd489f992e4d9e"
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
+metafile = true
+
+[[files]]
+file = "mods/liquid-burner.pw.toml"
+hash = "22d91ca96b26d5c70e68f263aba1f1ebb2d2389c8c493da310851ed341e157ff"
 metafile = true
 
 [[files]]
