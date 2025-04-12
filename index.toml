@@ -51,7 +51,7 @@ hash = "65b8b0fc6f421f8e550d49ec65d00de1cb2b86ebf5ecff14225d8d97bea00a39"
 
 [[files]]
 file = "kubejs/server_scripts/Recipies.js"
-hash = "4a61927238ffe95fc6738279bec909a178700ab28020d36c94252281a88a404e"
+hash = "b8c5f66e80757e80c4a7a9f158f06c6ec6cf0e3ddbe2b231c7322acadc104215"
 
 [[files]]
 file = "kubejs/server_scripts/VillagerTrades.js"
