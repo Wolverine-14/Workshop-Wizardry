@@ -163,4 +163,27 @@ ServerEvents.recipes(e => {
         level: 1,
         generate_additional_leveled_recipes: true
       })
+      e.custom({
+        type: "runic_enchanting:rune_enchanting",
+        book: {
+          item: "minecraft:book"
+        },
+        target: {
+          item: "runic_enchanting:inventory_rune_page"
+        },
+        primary: {
+          item: "runic_enchanting:force_rune_page"
+        },
+        secondary: {
+          item: "runic_enchanting:preservation_rune_page"
+        },
+        lapis_count: 3,
+        exp_amount: 6,
+        result: {
+          item: "minecraft:enchanted_book"
+        },
+        enchantment: "soulbound:soulbound",
+        level: 1,
+        generate_additional_leveled_recipes: true
+      })
 })
