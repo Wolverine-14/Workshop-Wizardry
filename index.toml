@@ -27,7 +27,7 @@ hash = "55069062087a08dd3dfd22d2023985571b6cd7bbe4b48d199f808765ef363c0e"
 
 [[files]]
 file = "kubejs/server_scripts/VillagerTrades.js"
-hash = "fa0e06d9c4183043c73fcf4cbf69debd9edbf842907906e412887820dbbc3341"
+hash = "d6384de15d3ff85155f8e30d5242de71f126d1d210725a418ab0ae8cf4f01007"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "f912004cc3c195008c32edf5ad4108639eb36530221886034cdd03b7916a220a"
+hash = "3ef96a88003584f3bb0e249aeb102b977400fab8718201f3325dd6ced30e4315"
 metafile = true
 
 [[files]]
@@ -404,7 +404,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-desert-temples.pw.toml"
-hash = "056652d48ab3934e87ebcdef25306d3a7a564fab873c0c826ba8403f23ca99d7"
+hash = "7dd536d000999274472fa6762bcd49deaeb301fd0889c32723c1129db2400561"
 metafile = true
 
 [[files]]
@@ -424,17 +424,17 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "81856f95f3e0d336c755d5415580094924b53d3a86ed042e6dbf2deeec448f72"
+hash = "8bc20a4cf22bdd4406a64126647cfe3c704e80a3197031c9154032905a276705"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-ocean-monuments.pw.toml"
-hash = "53c40612eaf08e752c90fafbacd0b573c1fbb9ec5826b66608019d7e84b74d43"
+hash = "f23d28e95b21a9655e615390a560bc66f3cb87610ac38cd9d849129d0600a766"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
-hash = "4b26e9295dc5f977d68a6d4c4226ed0de542419e5a50a2cb742451230aadbe78"
+hash = "b2af03e504a1827f2f6fc09597e7d51f4ecd64ab1ebb329a9eb9ffb98372673a"
 metafile = true
 
 [[files]]
