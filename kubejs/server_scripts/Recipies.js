@@ -1,7 +1,8 @@
 ServerEvents.recipes(e => { 
     e.recipes.create.filling('netherrack', [Fluid.of('water', FluidAmounts.MB*12), 'magma_block'])
     e.recipes.create.filling('magma_block', [Fluid.of('lava', FluidAmounts.MB*6), 'blackstone'])
-    e.custom
+    e.recipes.create.mixing('diorite',['cobblestone','#c:quartz'])
+
     e.custom({
         type: 'liquidburner:liquidburning',
         fluid: 'create_modular_tools:molten_iron',
