@@ -23,7 +23,7 @@ hash = "65b8b0fc6f421f8e550d49ec65d00de1cb2b86ebf5ecff14225d8d97bea00a39"
 
 [[files]]
 file = "kubejs/server_scripts/Recipies.js"
-hash = "994fea9a0cabb65c8c343a7ccf79bea5e4693b4c65f4b21a07bd903626758e34"
+hash = "094cd9d9b0191eebfa90cd13e63a3601e91716f49c5d19cb2bde433af93ee583"
 
 [[files]]
 file = "kubejs/server_scripts/VillagerTrades.js"
@@ -202,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "34dd1cbde7b82d5992e010b2e31b2eb0b51c2fd330564a75fcdc907a9795bc49"
+metafile = true
+
+[[files]]
+file = "mods/goggle-trinket-slot.pw.toml"
+hash = "3d0c54755d5bcd0b8e306bd1ac9d648bef47e72dffa4ff8de20237e29162691e"
 metafile = true
 
 [[files]]

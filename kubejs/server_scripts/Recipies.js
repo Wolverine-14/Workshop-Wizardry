@@ -2,6 +2,7 @@ ServerEvents.recipes(e => {
     e.recipes.create.filling('netherrack', [Fluid.of('water', FluidAmounts.MB*12), 'magma_block'])
     e.recipes.create.filling('magma_block', [Fluid.of('lava', FluidAmounts.MB*6), 'blackstone'])
     e.recipes.create.mixing('diorite',['cobblestone','#c:quartz'])
+    e.recipes.create.mixing('calcite',['andesite','diorite','granite']).heated()
     e.shaped('4x hexcasting:slate_bricks', 
       [// arg 1: output
         'AA ', 
