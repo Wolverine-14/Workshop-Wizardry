@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/continents.pw.toml"
-hash = "2278b701d34c6ce904d52975244f04ce584ae7d5920ca3f9ff0202eccdc6185f"
+hash = "d6da3d9e4834b857398f1e50bcaddd5b2a47ee1be0164adc9bc8fd7be3534599"
 metafile = true
 
 [[files]]
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "bc8af5d5d2aae78e4df7bad058686b7aa357bc227ac6a6126df94d5592bae165"
+hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
 metafile = true
 
 [[files]]
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-trading-floor.pw.toml"
-hash = "5cb34c15d79dbe7b3cc29ef19480c7f9727f44aa6efc7e5f56bd7f574e06ba10"
+hash = "4dbfc7d3ec58848f2978856ef4069e96c4ac0eb303d2a534085d681f6ab4cef6"
 metafile = true
 
 [[files]]
@@ -151,17 +151,22 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "8276518c6ba5c30439e6361e115d6b26cd0a96904f7792d1501013aa05c3512f"
+hash = "4d2d84dc7b15e977a32d1a8a90f48fa4da2f703bc04f79132f1d0680b6765168"
 metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "e07935009e03be5e7ae2545f413113c7c8cece2053ba74021d4a26f7e29e8a2a"
+hash = "3adbd90351458dbb20a0c1a4bf6c7eda081782eacb5252a863cff3dea6cfc7c0"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "af8a0e02b6d8e380087e02fd7441bb7c546d6ab20d5f7642e04925e74cbd7659"
+hash = "fec1ffa03b4d62e47be25512840490844fc383cf82d2ad35345b2f87a21e8228"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "aa098fe2f0399fe8c95450af73f406eba41aee3bb58f5a450c434c713ca8cf5f"
 metafile = true
 
 [[files]]
@@ -176,12 +181,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c7763ceed9929d3364030c01a4602628ebf46a028d55e7dd06f5aeb6280d36a3"
+hash = "2d44be0de504bd05e2f6f2e4644f5d7afd2401adcdff92c19871db204e121988"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
+hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
 metafile = true
 
 [[files]]
@@ -201,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "34dd1cbde7b82d5992e010b2e31b2eb0b51c2fd330564a75fcdc907a9795bc49"
+hash = "6ef4d5626e258509b479220129ccc987b3f9e8ac33a6a5e227772f3cde1dbb9f"
 metafile = true
 
 [[files]]
@@ -221,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexchanting.pw.toml"
-hash = "b78dcbd63b1f6b0ad2fb0c287498010c8ac266cb10b0d9294b75dc946a848ff1"
+hash = "2d274f5041bef18a29219be9ee832c80b0368c605e8be54d5a3e15c67c583d49"
 metafile = true
 
 [[files]]
@@ -240,12 +245,12 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "3d41978dc3fd1d7b7eebe51a7c04e49707e7e7c66f764a1bed0cc214e4032995"
+hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
 
 [[files]]
 file = "mods/inline.pw.toml"
-hash = "06ff4315690ac68d88776ed29740ad1515746a382f4ac47ecde0566cb16333b8"
+hash = "11d5be630e67ca0cc667224467a8f67e63843d2b05a2d5c626143b3b4adaf987"
 metafile = true
 
 [[files]]
@@ -279,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "470d30cd94b769b646f714432ba4cd01969910f6016957a6b218d2d2900d914c"
+hash = "a08a445002542d96a8481654c3f4b5e2d3c064f77b477aeaa3a1d1c3cd396ca8"
 metafile = true
 
 [[files]]
@@ -329,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "8fe7a1882593ac153622e5c2bdf8133157f5638040bf10ea3dc9ffcf2ec1930a"
+hash = "3c2fe6485d980a094a5094263d9d54dd59bd4cfd37439109be561894342a82f8"
 metafile = true
 
 [[files]]
@@ -349,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "8dd519be44b956dce7eaa2bcb5dffe7926402b7b2553e2b5e56cbcc9e69ccf86"
+hash = "82c3a531c2180cd45f59e433315e31dc886c464a05ea38ea0b82ce1bc033c520"
 metafile = true
 
 [[files]]
@@ -364,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "350cd01b8b55cea244c2b0ea7bb3c9a6ba873cea4701528c62101c63af6b027a"
+hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
 metafile = true
 
 [[files]]
@@ -389,7 +394,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "af8c4da9d92fa2e95a4f147cb6b1577c89cd82265d2c3317076a7c16dc8f4d87"
+hash = "c57e5187ae4382be6c19e596c8a3f4a7a2b4d566c16c6fc8ad8a0629dc9454d1"
 metafile = true
 
 [[files]]
