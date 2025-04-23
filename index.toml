@@ -230,8 +230,9 @@ hash = "2d274f5041bef18a29219be9ee832c80b0368c605e8be54d5a3e15c67c583d49"
 metafile = true
 
 [[files]]
-file = "mods/hexdebug-fabric-0.3.0+1.20.1-20250406.070505-4.jar"
-hash = "aa464902bfbf1c309dc843f4e68e5ae6549a3f1fce8e9f57f69e61c57656d5ae"
+file = "mods/hexdebug.pw.toml"
+hash = "ffb66801e549556a06c1dd896918cd7f9be6e2df98792e0a03af6a8bdc33deed"
+metafile = true
 
 [[files]]
 file = "mods/hexical.pw.toml"
@@ -256,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "b9fa4052f55fb11d52dcd0825cfa1b0341b741b1fe9029fbcc79abede25ccf56"
+metafile = true
+
+[[files]]
+file = "mods/ioticblocks.pw.toml"
+hash = "5798343ead56724652e437636b291b7240801757cdc982577a9cae8ed776d20d"
 metafile = true
 
 [[files]]
