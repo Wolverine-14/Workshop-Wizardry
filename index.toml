@@ -159,6 +159,11 @@ hash = "4d2d84dc7b15e977a32d1a8a90f48fa4da2f703bc04f79132f1d0680b6765168"
 metafile = true
 
 [[files]]
+file = "mods/edf-remastered.pw.toml"
+hash = "b8f4c6a7a6ca91737bdae663eebc6315dcf2a4fcb0ad7715aa8730bb6f0c1382"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "3adbd90351458dbb20a0c1a4bf6c7eda081782eacb5252a863cff3dea6cfc7c0"
 metafile = true
@@ -445,6 +450,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
 hash = "0958d9f10d0e8fb282b8e684b05b37b29aca826d48deeec3e44171857c99aca5"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "c360a4aef0ce719d385529002ba157a731d572b73cefb573c763d71d54039078"
 metafile = true
 
 [[files]]
