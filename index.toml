@@ -10,6 +10,10 @@ file = "config/openloader/data/lootr-betterend-compatibility-data-pack.zip"
 hash = "00661dcb3d8209eafc05139d774b7375c8cf09396d22d9f55c3dc6121e19c4c9"
 
 [[files]]
+file = "config/spirit-walker.json5"
+hash = "148b3b943d64b1f993f014ca1224fe8ac48daeebd51b1e8a3c67cbf11ccc26f0"
+
+[[files]]
 file = "config/trimseffects-config2.json"
 hash = "89dbbe2c34b15ac1a2e4352e1555688385081fe1aa0acfc8522b0c40350aea9b"
 
