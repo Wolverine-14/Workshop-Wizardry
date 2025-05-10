@@ -138,6 +138,11 @@ hash = "a415fb5b85a7de4ae22d4c75fe7ad4f3528171d0564b9f49245101b11813439a"
 metafile = true
 
 [[files]]
+file = "mods/create-stone-generators.pw.toml"
+hash = "c5711cb4b4e875a7fead472aca6c3a25c3bef46f6eddc5a7e32037961f9f366b"
+metafile = true
+
+[[files]]
 file = "mods/create-stones.pw.toml"
 hash = "f131ebc6dcb9b5e6c340c2569bf6d4341daa65aa0af5667e88adf03768dfee01"
 metafile = true
