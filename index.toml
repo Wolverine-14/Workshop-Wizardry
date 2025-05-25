@@ -63,6 +63,11 @@ hash = "dd8057c40ff94e9a21a121583884f71c9a6b1eaa6f913ef46c5d1f9b37fe487f"
 metafile = true
 
 [[files]]
+file = "mods/breakingbedrock.pw.toml"
+hash = "2b36fca784f6e168e9192196f6f81c8d0225c3953a9d67b15c9da0d5199061f5"
+metafile = true
+
+[[files]]
 file = "mods/bundle-backportish.pw.toml"
 hash = "300d47da7b3597b02f50de0de7574e1eaf63cdf2273ced05db697fad94b493a5"
 metafile = true
@@ -218,11 +223,6 @@ hash = "2fcd17a965738c1649d434a0d5f8077321b4bb90a8c9d9d868d220d8bbd5abb3"
 metafile = true
 
 [[files]]
-file = "mods/from-the-fog.pw.toml"
-hash = "c2fb39a9d55078a3929cfee2b922b725704d0fdff4b24936b2c0d1500061885d"
-metafile = true
-
-[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "6ef4d5626e258509b479220129ccc987b3f9e8ac33a6a5e227772f3cde1dbb9f"
 metafile = true
@@ -364,11 +364,6 @@ metafile = true
 [[files]]
 file = "mods/paucal.pw.toml"
 hash = "49ef3ff0a74c6338f2160c4ee683ae34f745a38c0c87f2d7527e4f88406113fe"
-metafile = true
-
-[[files]]
-file = "mods/pehkui.pw.toml"
-hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
 metafile = true
 
 [[files]]
