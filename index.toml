@@ -88,11 +88,6 @@ hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
 metafile = true
 
 [[files]]
-file = "mods/carpet-fixes.pw.toml"
-hash = "927a9d030a9bad114c17a4195f25a76f2ba9d0bdaf8e701f323e267dd1ce9edf"
-metafile = true
-
-[[files]]
 file = "mods/carpet.pw.toml"
 hash = "f912004cc3c195008c32edf5ad4108639eb36530221886034cdd03b7916a220a"
 metafile = true
@@ -359,11 +354,6 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "f40488b90039380bde4615baca056eaec3afb62defccd7301a15af1c602970c3"
-metafile = true
-
-[[files]]
-file = "mods/modernfix.pw.toml"
-hash = "86bfc097974f2e848f28a866c15d58f68bcf01e058012ab5c7ecff9b2bf7a6f7"
 metafile = true
 
 [[files]]
